@@ -17,6 +17,6 @@ The TP consists on predicting winning/losing boards in GO game.
 
 - [positions-to-evaluate-9x9.json.gz](positions-to-evaluate-9x9.json.gz): Positions to evaluate.
 
-- [trainning_data_X.py](trainning_data_X.py) & [trainning_data_Y.py](trainning_data_Y.py): Prepared data, ready to use.
+- [training_data_X.npy](training_data_X.npy) & [training_data_Y.npy](training_data_Y.npy): Prepared data, ready to use.
 
 - [my_predictions.txt](my_predictions.txt): Predictions for the positions to evaluate.
