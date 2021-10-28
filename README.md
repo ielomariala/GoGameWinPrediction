@@ -11,12 +11,12 @@ The TP consists on predicting winning/losing boards in GO game.
 ## Arborescence
 
 *The current folder contains all files needed:*
-- [tp-ml-go.ipynb](tp-ml-go.ipynb): to launch the trainning of the convolutional neural network for go boards.
+- [tp_ml_go.ipynb](tp_ml_go.ipynb): to launch the trainning of the convolutional neural network for go boards.
 
-- samples-9x9.json.gz: Boards used to train our model.
+- [samples-9x9.json.gz](samples-9x9.json.gz): Boards used to train our model.
 
-- positions-to-evaluate-9x9.json.gz: Positions to evaluate.
+- [positions-to-evaluate-9x9.json.gz](positions-to-evaluate-9x9.json.gz): Positions to evaluate.
 
-- trainning_data_X/Y_.py: Prepared data, ready to use.
+- [trainning_data_X.py](trainning_data_X.py) & [trainning_data_Y.py](trainning_data_Y.py): Prepared data, ready to use.
 
-- my_predictions.txt: Predictions for the positions to evaluate.
+- [my_predictions.txt](my_predictions.txt): Predictions for the positions to evaluate.
